@@ -6,4 +6,4 @@ Things one needs to install the software and process of installation:
 Process:
    1. Go to google play store
    2. Our app has the unique name to identify it
-   3. 
+   
