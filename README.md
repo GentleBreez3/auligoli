@@ -6,4 +6,13 @@ Things one needs to install the software and process of installation:
 Process:
    1. Go to google play store
    2. Our app has the unique name to identify it
+# Maintainers
+   1. Md Fahim Faisal
+   2. Sazzad Hossain
+   3. Sabrina Tajnoor
+   4. Jobaer Khan
+# Instructor
+   Dr. Musfique Anwar
+# Facing Problem
+If the user faces any kind of problem while using the app he/she can immediately send their issues to the admin, and we will try to remove the issue. 
    
