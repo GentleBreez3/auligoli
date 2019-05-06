@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AuliGoli</string>
+
+
+    <string name="enter_your_location">Enter your location</string>
+    <string name="simple_text">Simple Text</string>
+    <string name="hospital_list">Hospital List</string>
+    <string name="restaurant_list">Restaurant List</string>
+    <string name="fire_service_list">Fire service List</string>
+
+</resources>
