@@ -9,8 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".FireService"></activity>
         <activity android:name=".RestaurantService" />
-        <activity android:name=".FireService" />
         <activity android:name=".AmbulanceService" />
         <activity android:name=".HospitalService" />
         <activity android:name=".MainActivity">
