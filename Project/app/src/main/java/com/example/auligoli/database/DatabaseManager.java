@@ -185,6 +185,20 @@ public class DatabaseManager extends SQLiteOpenHelper{
         this.addServiceOrganization(new ServiceOrganization(ServiceType.FIRE_SERVICE, "Uttara Fire Station", "Uttara","0124569765", "no details"));
         this.addServiceOrganization(new ServiceOrganization(ServiceType.FIRE_SERVICE, "Malibag Fire Station", "Malibag","0124569765", "no details"));
 
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.POLICE_STATION_SERVICE, "Dhamondi Police Station", "Dhanmondi","0124569765", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.POLICE_STATION_SERVICE, "Savar Police Station", "Savar","16465", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.POLICE_STATION_SERVICE, "Savar East Police Station", "Savar","465452656", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.POLICE_STATION_SERVICE, "Jigatola Police Station", "Dhanmondi","0124569765", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.POLICE_STATION_SERVICE, "Polli Bidyut Police Station", "Savar","0124569765", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.POLICE_STATION_SERVICE, "Mirpur-10 Police Station", "Mirpur","0124569765", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.POLICE_STATION_SERVICE, "Gulshan Police Station", "Gulshan","0124569765", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.POLICE_STATION_SERVICE, "Komlapur Police Station", "Motijheel","0124569765", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.POLICE_STATION_SERVICE, "Pollobi Police Station", "Mirpur","0124569765", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.POLICE_STATION_SERVICE, "Shaymoli Police Station", "Shaymoli","0124569765", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.POLICE_STATION_SERVICE, "Genda Police Station", "Savar","0124569765", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.POLICE_STATION_SERVICE, "Uttara Police Station", "Uttara","0124569765", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.POLICE_STATION_SERVICE, "Malibag Police Station", "Malibag","0124569765", "no details"));
+
     }
 
 
