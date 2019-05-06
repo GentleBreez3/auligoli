@@ -213,6 +213,19 @@ public class DatabaseManager extends SQLiteOpenHelper{
         this.addServiceOrganization(new ServiceOrganization(ServiceType.RENT_CAR, "Sima Rent A Car", "Savar","0124569765", "no details"));
         this.addServiceOrganization(new ServiceOrganization(ServiceType.RENT_CAR, "Jononi Rent A Car", "Savar","0124569765", "no details"));
 
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.HOTEL_SERVICE, "Dhanmondi wheel", "Dhanmondi","0124569765", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.HOTEL_SERVICE, "Joshim Rent a car", "Savar","16465", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.HOTEL_SERVICE, "Mayer Doa Rent A Car", "Savar","465452656", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.HOTEL_SERVICE, "Allah Sohai Rent A Car", "Dhanmondi","0124569765", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.HOTEL_SERVICE, "Pother Sathi Rent A Car", "Savar","0124569765", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.HOTEL_SERVICE, "Tanis Rent A Car", "Mirpur","0124569765", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.HOTEL_SERVICE, "Bardem", "Dhanmondi","0124569765", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.HOTEL_SERVICE, "Square", "Dhanmondi","0124569765", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.HOTEL_SERVICE, "Square", "Mirpur","0124569765", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.HOTEL_SERVICE, "Square", "Kollyanpur","0124569765", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.HOTEL_SERVICE, "Savar Rent A Car", "Savar","0124569765", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.HOTEL_SERVICE, "Sima Rent A Car", "Savar","0124569765", "no details"));
+        this.addServiceOrganization(new ServiceOrganization(ServiceType.HOTEL_SERVICE, "Jononi Rent A Car", "Savar","0124569765", "no details"));
     }
 
 
