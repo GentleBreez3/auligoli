@@ -40,4 +40,10 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void rentCar(View view) {
+        Button btnRentCar=(Button) findViewById(R.id.rent_car_button);
+        Intent intent=new Intent(MainActivity.this,RentCar.class);
+        startActivity(intent);
+    }
+
 }

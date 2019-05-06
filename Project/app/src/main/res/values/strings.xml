@@ -7,6 +7,7 @@
     <string name="hospital_list">Hospital List</string>
     <string name="restaurant_list">Restaurant List</string>
     <string name="fire_service_list">Fire service List</string>
-    <string name="police_station_list">Fire service List</string>
+    <string name="rent_car_list">Rent car Services </string>
+    <string name="hotel_list">Hotel Services </string>
 
 </resources>

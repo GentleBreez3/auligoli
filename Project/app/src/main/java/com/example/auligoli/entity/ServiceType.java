@@ -8,4 +8,5 @@ public abstract class ServiceType {
     public static final int AMBULANCE_SERVICE = 4;
     public static final int FOOD_DELIVERY = 5;
     public static final int HOTEL_SERVICE = 6;
+    public static final int RENT_CAR = 7;
 }
