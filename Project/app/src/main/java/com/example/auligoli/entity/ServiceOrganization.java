@@ -1,13 +1,15 @@
 package com.example.auligoli.entity;
 
+import android.annotation.SuppressLint;
+
 public class ServiceOrganization {
-    private ServiceType serviceType;
+    private int serviceType;
     private String organizationName;
     private String location;
     private String contactNumber;
     private String details;
 
-    public ServiceOrganization(ServiceType serviceType, String organizationName, String location, String contactNumber, String details) {
+    public ServiceOrganization(int serviceType, String organizationName, String location, String contactNumber, String details) {
         this.serviceType = serviceType;
         this.organizationName = organizationName;
         this.location = location;
@@ -15,7 +17,7 @@ public class ServiceOrganization {
         this.details = details;
     }
 
-    public ServiceType getServiceType() {
+    public int getServiceType() {
         return serviceType;
     }
 
@@ -33,5 +35,11 @@ public class ServiceOrganization {
 
     public String getDetails() {
         return details;
+    }
+
+    @SuppressLint("DefaultLocale")
+    @Override
+    public String toString() {
+        return String.format("[%d][%s][%s][%s][%s]",serviceType, organizationName, location, contactNumber, details);
     }
 }
