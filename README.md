@@ -7,8 +7,8 @@ Process:
    1. Go to google play store
    2. Our app has the unique name to identify it
 # Maintainers
-   1. Md Fahim Faisal
-   2. Sazzad Hossain
+   1. Sazzad Hossain
+   2. Md Fahim Faisal
    3. Sabrina Tajnoor
    4. Jobaer Khan
 # Instructor
